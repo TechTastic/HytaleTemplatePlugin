@@ -18,9 +18,10 @@ A minimal, ready-to-use template for creating Hytale plugins.
 - **IntelliJ IDEA** - [Download here](https://www.jetbrains.com/idea/download/) (Community Edition is fine)
 - **Git** - [Download here](https://git-scm.com/)
 
-### 1. Select `Use Template`
+### 1. Click `Use this Template` and select `Create a new repository`
 
-This will create a new repository based on this template.
+You can also just click [here](https://github.com/new?template_name=HytaleTemplatePlugin&template_owner=TechTastic) for a shortcut.
+This will create a new repository using this one as its template.
 
 ### 2. Clone Your New Repository
 
