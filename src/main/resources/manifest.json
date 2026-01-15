@@ -8,7 +8,7 @@
       "Name":"Me!"
     }
   ],
-  "Website": "https://google.com",
+  "Website": "https://github.com/TechTastic/HytaleTemplatePlugin",
   "Main": "${plugin_main}",
   "ServerVersion": "*",
   "Dependencies": {},
