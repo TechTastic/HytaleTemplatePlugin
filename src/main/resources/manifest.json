@@ -1,0 +1,17 @@
+{
+  "Group": "${plugin_group}",
+  "Name": "${plugin_name}",
+  "Version": "${plugin_version}",
+  "Description": "${plugin_description}",
+  "Authors": [
+    {
+      "Name":"Me!"
+    }
+  ],
+  "Website": "https://google.com",
+  "Main": "${plugin_main}",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
